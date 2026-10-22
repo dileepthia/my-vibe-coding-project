@@ -6,7 +6,7 @@
 
 _The working, shareable link that survives real users._
 
-_____
+https://alloy.app/dileep-t/p/9654bad3-1e28-4308-903e-63c4d092b619
 
 ## Data schema
 
@@ -44,4 +44,5 @@ Auth boundaries
 
 _What you threw at it, and what held / broke._
 
-_____
+The kill switch; go offline - Did not work the first time and got a "No Internet" error. Re-prompted for an inline error state. The second time I got an error as desired "Network request failed. Check your connection and retry." along with the "Retry" button.
+Spam Click - Did not create duplicate records.
